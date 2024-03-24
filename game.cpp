@@ -4,7 +4,7 @@
 #include "game.h"
 #include "console.h"
 
-#define BOARD_SIZE 5
+#define BOARD_SIZE 8
 
 using namespace SnakeEntity;
 using namespace SnakeUtil;
