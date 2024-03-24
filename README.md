@@ -19,5 +19,5 @@ game.cpp 파일의 아래 라인을 수정해주세요.
 ```
 7  #define BOARD_SIZE 8
 ```
-* min 4, max 20 조건을 만족해야합니다. *
+** min 4, max 20 조건을 만족해야합니다. **
 
