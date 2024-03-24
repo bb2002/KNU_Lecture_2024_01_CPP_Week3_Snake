@@ -13,3 +13,11 @@ main.exe 파일이 생성되었는지 확인하고, 실행해주세요.
 ```
 ./main.exe
 ```
+
+## How to edit 'BOARD_SIZE'
+game.cpp 파일의 아래 라인을 수정해주세요.
+```
+7  #define BOARD_SIZE 8
+```
+* min 4, max 20 조건을 만족해야합니다. *
+
